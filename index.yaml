@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  nginx:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-11-11T11:10:08.498884618+05:30"
+    description: A Helm chart for Kubernetes
+    digest: f250b147f02def56f13ce835a9807391ad15eb5f98e6cd2681b1bdb6d0402b4e
+    name: nginx
+    type: application
+    urls:
+    - https://naziyard.github.io/helm-app/nginx-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-11-11T11:10:08.496916454+05:30"
